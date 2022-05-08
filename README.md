@@ -2,8 +2,10 @@
 
 > All the files in STARTUP FOLDER goes in  "shell:startup". 
 <br>
-> A folder that runs the executable on every startup.<br>
-> Open run with <br>
+> A folder that runs the executable on every startup.
+<br>
+> Open run with 
+<br>
 ```
 windows + R 
 ```
